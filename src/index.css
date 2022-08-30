@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+header{
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  background-color: black;
+  color: #fff;
+}
+
+header .form-control{
+  width: 30%;
+}
+
+main{
+  margin: 2rem 0;
+}
+
+.tablaListado{
+  margin: 2rem 0;
+}
